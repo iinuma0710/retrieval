@@ -1,2 +1,1 @@
-# retrieval
-Movie retrieval based on SlowFast Network
+# Video retrieval based on Action Recognition
